@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>OmeDEV: Talk to developers!</title>
+        <title>CowOrBull: Talk to real people!</title>
         <link rel="icon" href="/icon.png" type="image/png" />
         <meta
           name="description"

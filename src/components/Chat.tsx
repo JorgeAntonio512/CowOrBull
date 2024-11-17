@@ -147,7 +147,7 @@ function Chat() {
 
           {foundUser ? (
             <Text fontSize="sm" fontWeight="bold">
-              You&apos;re now chatting with a random developer.
+              You&apos;re now chatting with a random human being.
             </Text>
           ) : !userQuit && !stop ? (
             <Flex>
@@ -158,7 +158,7 @@ function Chat() {
             </Flex>
           ) : (
             <Text fontSize="sm" fontWeight="bold">
-              You&apos;re now chatting with a random developer.
+              You&apos;re now chatting with a random human being.
             </Text>
           )}
 
